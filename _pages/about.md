@@ -2,9 +2,8 @@
 About me
 -----
 
-	I received the B.S. degree in school of mathematics and information science from from North Minzu University, Yinchuan, China, in 2022. I am currently
-	working toward the PhD degree with the school of mathematics and statistics, Xidian
-	University. My research interests include distributed machine learning, federated optimization, neural network and computer vsion, and their applications in real world.
+I received the B.S. degree in school of mathematics and information science from from North Minzu University, Yinchuan, China, in 2022. I am currently
+working toward the PhD degree with the school of mathematics and statistics, Xidian University. My research interests include distributed machine learning, federated optimization, neural network and computer vsion, and their applications in real world.
  
 
 
