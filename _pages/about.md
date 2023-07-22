@@ -23,9 +23,10 @@ Education
 
 Honors & Awards
 ------
-
-
+* 2020: National scholarship for postgraduate students.
+* 2021: National scholarship for postgraduate students.
+  
 Contact
 ------
-
+* Email: bs.li@stu.xidian.edu.cn
 
