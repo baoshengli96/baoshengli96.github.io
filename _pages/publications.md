@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+
+## Paper
+-----
+* Federated Multi-Discriminators Multi-Generators for Heterogeneous Industrial IoT (submitted)
+* Prototype-based Decentralized Federated Learning for the Heterogeneous Time-varying IoT Systems (submitted)
