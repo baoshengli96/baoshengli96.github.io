@@ -8,22 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.S. degree in school of mathematics and information science from from North Minzu University, Yinchuan, China, in 2022. I am currently
-working toward the PhD degree with the school of mathematics and statistics, Xidian University. 
+I am currently pursuing a Ph.D. degree in the School of Mathematics and Statistics at Xidian University. I am also a joint Ph.D. student with the Singapore University of Technology and Design (SUTD), co-advised by Prof. Zehui Xiong.
+
 
 **Research Interest**
 * Decentralized Federated Learning 
 * Internet of Things
-* Gradient-Free Optimization
-* Large-Model Pretraining and Prompt Tuning
+* Distributed optimization
+* Stochastic optimization
+* Minmax optimization
+  
 
 
 
-Education
-------
-* Ph.D (current): in Xidian University, Xi'an, China.
-* M.S.(2022): in North Minzu University, Yinchuan, China.
-* B.S.(2019): in Henan University of Economics ans Law, Zhengzhou, China.
+
+#Education
+#------
+#* Ph.D (current): in Xidian University, Xi'an, China.
+#* M.S.(2022): in North Minzu University, Yinchuan, China.
+#* B.S.(2019): in Henan University of Economics ans Law, Zhengzhou, China.
 
 
 
@@ -31,6 +34,17 @@ Honors & Awards
 ------
 * 2020: National scholarship for postgraduate students.
 * 2021: National scholarship for postgraduate students.
+* Excellent Doctoral Dissertation of Xidian University.
+* PhD candidate in China Association for Science and Technology Young Talents Support Program.
+
+
+Social Service
+------
+* CCF Member
+* CSIAM Member
+* Reviewer of TII, IoT-J, EAAI, PR, AIR, etc.
+
+
   
 Contact
 ------
