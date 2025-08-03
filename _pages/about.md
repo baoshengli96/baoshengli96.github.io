@@ -20,16 +20,6 @@ I am currently pursuing a Ph.D. degree in the School of Mathematics and Statisti
   
 
 
-
-
-#Education
-#------
-#* Ph.D (current): in Xidian University, Xi'an, China.
-#* M.S.(2022): in North Minzu University, Yinchuan, China.
-#* B.S.(2019): in Henan University of Economics ans Law, Zhengzhou, China.
-
-
-
 Honors & Awards
 ------
 * 2020: National scholarship for postgraduate students.
