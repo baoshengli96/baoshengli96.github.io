@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-## Paper
+## Journal Paper
 -----
 * **B. Li**, W. Gao, J. Xie, H. Li and M. Gong, "Robust decentralized federated learning for heterogeneous and non-ideal networks." in Pattern Recognition, vol.162, pp.11362, 2025.  [QUERY](https://doi.org/10.1016/j.patcog.2025.111362) & [CODE](https://github.com/baoshengli96/DFLGM)
 * **B. Li**, W. Gao, J. Xie, M. Gong, L. Wang and H. Li, "Federated Multidiscriminators Multigenerators for Heterogeneous Industrial IoT," in IEEE Transactions on Industrial Informatics, vol. 21, no. 1, pp. 884-893, Jan. 2025.
