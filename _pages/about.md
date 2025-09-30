@@ -13,8 +13,9 @@ I am also a joint Ph.D. student with the Singapore University of Technology and 
 
 Affiliations
 * School of Mathematics and Statistics, Xidian University
-* ISTD pillar Singapore University of Technology and Design (SUTD)
-
+* ISTD pillar in Singapore University of Technology and Design (SUTD)
+* Key Laboratory of Collaborative Intelligence Systems, Ministry of Education
+* Shaanxi Advanced Computing Innovation Center, Shaanxi University Key Laboratory of Intelligent Learning and Optimization Technology
 
 
 **Research Interest**
@@ -25,7 +26,7 @@ Affiliations
 * Minmax optimization
   
 News
-* [Jun. 2025] One paper titled *Decentralized Federated Learning in Mobile Computing Ecosystems with Time-Varying and Heterogeneous Networks* has been submitted to IEEE TMC. Co-authors: Weifeng Gao, Xiumei Deng, Jin Xie, Zehui Xiong, Marie Siew, Binquan Guo, Shiwen Mao, and Zhu Han
+* [Jun. 2025] One paper titled *Decentralized Federated Learning in Mobile Computing Ecosystems with Time-Varying and Heterogeneous Networks* has been submitted to IEEE TMC. Co-authors: Weifeng Gao, Xiumei Deng, Jin Xie, Zehui Xiong, Marie Siew, [Binquan Guo](https://wilixx.github.io/), [Shiwen Mao](https://www.eng.auburn.edu/~szm0001/), and [Zhu Han](http://www2.egr.uh.edu/~zhan2/)
 
 
 
