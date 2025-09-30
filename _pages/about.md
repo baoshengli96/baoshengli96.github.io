@@ -15,7 +15,8 @@ Affiliations
 * School of Mathematics and Statistics, Xidian University
 * ISTD pillar in Singapore University of Technology and Design (SUTD)
 * Key Laboratory of Collaborative Intelligence Systems, Ministry of Education
-* Shaanxi Advanced Computing Innovation Center, Shaanxi University Key Laboratory of Intelligent Learning and Optimization Technology
+* Shaanxi Advanced Computing Innovation Center
+* Shaanxi University Key Laboratory of Intelligent Learning and Optimization Technology
 
 
 **Research Interest**
