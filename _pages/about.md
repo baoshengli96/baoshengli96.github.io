@@ -18,6 +18,17 @@ I am currently pursuing a Ph.D. degree in the School of Mathematics and Statisti
 * Stochastic optimization
 * Minmax optimization
   
+News
+* 1. [Jun. 2025] One paper titled *Decentralized Federated Learning in Mobile Computing Ecosystems with Time-Varying and Heterogeneous Networks* has been submitted to IEEE TMC.
+
+
+
+
+
+
+
+
+
 
 
 Honors & Awards
