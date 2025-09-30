@@ -25,7 +25,8 @@ Affiliations
 * Minmax optimization
   
 News
-* [Jun. 2025] One paper titled *Decentralized Federated Learning in Mobile Computing Ecosystems with Time-Varying and Heterogeneous Networks* has been submitted to IEEE TMC. Co-authors: Weifeng Gao,
+* [Jun. 2025] One paper titled *Decentralized Federated Learning in Mobile Computing Ecosystems with Time-Varying and Heterogeneous Networks* has been submitted to IEEE TMC. Co-authors: Weifeng Gao, Xiumei Deng, Jin Xie, Zehui Xiong, Marie Siew, Binquan Guo, Shiwen Mao, and Zhu Han
+
 
 
 
