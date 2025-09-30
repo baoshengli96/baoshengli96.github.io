@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. degree in the School of Mathematics and Statistics at Xidian University. I am also a joint Ph.D. student with the Singapore University of Technology and Design (SUTD), co-advised by Prof. Zehui Xiong.
+I am currently pursuing a Ph.D. degree in the School of Mathematics and Statistics at Xidian University, supervised by Prof. Weifeng Gao and Prof. Jin Xie.
+
+I am also a joint Ph.D. student with the Singapore University of Technology and Design (SUTD), co-advised by Prof. [Zehui Xiong](https://pure.qub.ac.uk/en/persons/zehui-xiong) and [Marie Siew](https://www.sutd.edu.sg/profile/marie-therese-siew-hui-lin).
+
+
 
 
 **Research Interest**
@@ -19,9 +23,7 @@ I am currently pursuing a Ph.D. degree in the School of Mathematics and Statisti
 * Minmax optimization
   
 News
-* 1. [Jun. 2025] One paper titled *Decentralized Federated Learning in Mobile Computing Ecosystems with Time-Varying and Heterogeneous Networks* has been submitted to IEEE TMC.
-
-
+* [Jun. 2025] One paper titled *Decentralized Federated Learning in Mobile Computing Ecosystems with Time-Varying and Heterogeneous Networks* has been submitted to IEEE TMC. Co-authors: Weifeng Gao,
 
 
 
