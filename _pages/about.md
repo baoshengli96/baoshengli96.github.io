@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. degree in the School of Mathematics and Statistics at Xidian University, supervised by Prof. Weifeng Gao and Prof. Jin Xie.
-
+I am currently pursuing a Ph.D. degree in the School of Mathematics and Statistics at Xidian University, supervised by Prof. [Weifeng Gao](https://faculty.xidian.edu.cn/GWF/zh_CN/index.htm) and Prof. [Jin Xie](https://faculty.xidian.edu.cn/XIEJIN/zh_CN/index.htm).
 I am also a joint Ph.D. student with the Singapore University of Technology and Design (SUTD), co-advised by Prof. [Zehui Xiong](https://pure.qub.ac.uk/en/persons/zehui-xiong) and [Marie Siew](https://www.sutd.edu.sg/profile/marie-therese-siew-hui-lin).
 
+Affiliations
+* School of Mathematics and Statistics, Xidian University
+* ISTD pillar Singapore University of Technology and Design (SUTD)
 
 
 
