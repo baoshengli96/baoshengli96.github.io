@@ -5,8 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% if site.talkmap_link %}
+<p style="text-decoration: underline;">
+  <a href="{{ '/talkmap.html' | relative_url }}">
+    See a map of all the places I've given a talk!
+  </a>
+</p>
 {% endif %}
 
 ## Talks and Presentations
@@ -17,7 +21,7 @@ author_profile: true
 
 - **2024年11月9日**  
   **西北工业大学数学与统计学院第四届研究生学术论坛**  
-  *"异构和非理想网络下的鲁棒分散联邦学习"*  
+  *“异构和非理想网络下的鲁棒分散联邦学习”*  
   荣誉：优秀报告  
   地点：中国 · 西安
 
@@ -25,13 +29,17 @@ author_profile: true
 
 - **2022年12月2日 – 12月4日**  
   **浙江大学“集群智能无人系统”全国博士生学术论坛**  
-  *"Local GAN and Regularization for Federated Learning in Heterogeneous Network"*  
+  *“Local GAN and Regularization for Federated Learning in Heterogeneous Network”*  
   荣誉：杰出报告  
   地点：中国 · 浙江
 
-<!-- 如果你以后使用 _talks/ 目录中的文章，取消注释以下代码 -->
-<!--
+<!-- 如果你以后使用 _talks/ 目录中的文章，请取消以下注释 -->
+{%
+  comment
+%}
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
--->
+{%
+  endcomment
+%}
